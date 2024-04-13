@@ -1,0 +1,17 @@
+{
+  "name": "miniwhatsapp",
+  "version": "1.0.0",
+  "description": "creating mini chat application to learn mongoose and backend connectivity⛱️🍊😎😎",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "and",
+    "whatsapp"
+  ],
+  "author": "krishna",
+  "license": "ISC"
+}
